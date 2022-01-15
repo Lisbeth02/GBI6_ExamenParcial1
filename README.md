@@ -9,6 +9,7 @@ de computadora es apto para usar, pero ahy que tener en cuenta la capacidad que 
 # Programas utilizados
 son las siguientes: Gitbash,GitHUb Desktop, Atom, Python, Jupyter Notebook o Jupyter Lab. 
 # Explicacion de la data utilizada
-Lo primero que se debe realizar es imprimir el directorio en la que se va a trabajar, por ejemplo: 
-cd sirve para imprimir el directorio actual
-cd OneDrive -> en este documento se encuentran otros archivos
+1. Necesitamos ubicarnos en el Git bash, de preferencia el programa que mas facil te resulte. 
+2. Ahora se necesita ubicar la ruta: cd OneDrive/CSB/unix/data # # # Después de ubicar el directorio y la ruta.
+3. Se utiliza echo para imprimir el texto
+4. Tambien se puede enlistar con el comando ls, detallar y enlistar con ls -l, ls -a; ls -lh
